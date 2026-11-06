@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 8 problems · 0 labs · 7 math
+**16** solved · 9 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-31 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-01 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-03 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-11-06 | [solution](problems/0313-numerical-gradient-checking) |
 
 ## Math
 
